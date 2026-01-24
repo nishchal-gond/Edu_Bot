@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Useful for retrieving specific context about the faculty, syllabus, and course information such as:
 - syllabus informations (how to access exam, what to expect from class, who is the professor, etc.)
 - course informations (course schedule, course materials, etc.)
 - programming knowledge (programming languages, tools, paradigms, functions, concepts etc.)
 - specific questions about programming (how to debug, how to write a program, etc.)
 - faculty information (faculty's office hours, faculty's contact information, etc.)
+=======
+Useful for retrieving specific context about the faculty, syllabus, and course information such as:
+- syllabus informations (how to access exam, what to expect from class, who is the professor, etc.)
+- course informations (course schedule, course materials, etc.)
+- programming knowledge (programming languages, tools, paradigms, functions, concepts etc.)
+- specific questions about programming (how to debug, how to write a program, etc.)
+- faculty information (faculty's office hours, faculty's contact information, etc.)
+>>>>>>> e88e1c7fba6198d713e5d0d40855cede932523b2
 Query: {query}

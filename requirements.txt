@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit==1.35.0
 asyncio==3.4.3
 llama-index==0.10.42
@@ -12,4 +13,20 @@ llama-index-llms-mistralai
 llama-index-llms-ollama
 llama-index-llms-anthropic
 deepeval==0.21.65
+=======
+streamlit==1.35.0
+asyncio==3.4.3
+llama-index==0.10.42
+charset-normalizer==3.3.2
+google-api-core==2.19.0
+google-api-python-client==2.131.0
+extra-streamlit-components==0.1.71
+python-dotenv==1.0.1
+llama-index-packs-raptor==0.1.3
+llama-index-vector-stores-chroma==0.1.8
+llama-index-llms-mistralai
+llama-index-llms-ollama
+llama-index-llms-anthropic
+deepeval==0.21.65
+>>>>>>> e88e1c7fba6198d713e5d0d40855cede932523b2
 ace_tools

@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 .env
 config.yaml
 *.pyc
 firebase_key.json
 .streamlit/secrets.toml
 google_credentials.json
+=======
+.env
+config.yaml
+*.pyc
+firebase_key.json
+.streamlit/secrets.toml
+google_credentials.json
+>>>>>>> e88e1c7fba6198d713e5d0d40855cede932523b2
